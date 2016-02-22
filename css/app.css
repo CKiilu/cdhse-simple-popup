@@ -9,7 +9,7 @@
     transition: opacity 0.3s 0s, visibility 0s 0.3s;
 }
 .cd-popup-container {
-    transform: translateY(40%);
+    transform: translateY(-40px);
     transition-property: transform;
     transition-duration: 0.3;
 }
